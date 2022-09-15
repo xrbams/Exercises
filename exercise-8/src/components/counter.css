@@ -1,0 +1,29 @@
+.count h1 {
+    color:rgb(74, 27, 125);
+  text-shadow: 2px 2px #262525;
+}
+
+.count{
+    padding: 1rem;
+    background-color: rgb(221, 152, 33);
+    margin: 2rem auto;
+    max-width: 95%;
+    width: 75rem;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.count button{
+    background-color: black;
+    color:rgb(24, 159, 212);
+    width: 12rem;
+    height: 3rem;
+    margin-right: 5rem;
+    font-size: 25px;
+}
+
+.child{
+    display: inline-block;
+    margin-right: 15rem;
+    margin-left: 5rem;
+    font-size: 25px;
+}

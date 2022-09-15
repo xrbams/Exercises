@@ -1,0 +1,27 @@
+.menu {
+  padding: 1rem;
+  background-color: rgb(221, 152, 33);
+  margin: 2rem auto;
+  max-width: 95%;
+  width: 50rem;
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.menu h1 {
+  color: rgb(99, 17, 137);
+  text-shadow: 2px 2px #262525;
+}
+
+.menu button{
+  background-color: black;
+  color:rgb(24, 159, 212);
+  width: 7rem;
+  height: 2rem;
+}
+
+.menu input{
+  width: 15rem;
+  height: 2rem;
+
+}
