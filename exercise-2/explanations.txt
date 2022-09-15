@@ -1,0 +1,29 @@
+1. React
+  - it is a javascript based library used as a foundation
+  in buidling GUIs for websites and apps. it consists of both
+  backend and frontend properties that can make up an application.
+
+2. React Component
+  - are bits of code that can be used for multiple purposes on
+  the react app. They are similar in purpose to javascript function,
+  however they tend to work in isolation.
+  there are two types; Class and function components.
+
+
+3. Single-page application
+  -it is a type of web application that interacts with the user by
+  overwriting the current web app with newer data from a server.
+  this is to make the app seem just as fast as a native app.
+
+4. Declarative programming (versus imperative programming)
+  - Declarative programming specifies what the program is meant to do.
+  while imperative describes the functionality by specifying each instruction.
+
+5. JSX
+  -this is a javascript extension. mainly used in creating react elements.
+
+6. Asynchronous (versus synchronous)
+  - Asynchronous tends to run irrespective of operation running at a similar time. (parallel.)
+  while synchronous uses sequence in opertive manner. one after another if you may.
+
+
